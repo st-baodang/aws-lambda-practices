@@ -1,0 +1,6 @@
+*.zip
+node_modules
+go.sum
+main
+python/**
+!lambda_function.py
